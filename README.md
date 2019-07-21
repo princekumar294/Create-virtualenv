@@ -1,4 +1,4 @@
-# Create-viirtualenv
+# Create-virtualenv
 
 How to create virtualenv                           
 Install pip first                         
