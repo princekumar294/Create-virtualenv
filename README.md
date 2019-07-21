@@ -11,7 +11,7 @@ virtualenv venv
 you can use any name insted of venv                                                                
 
 You can also use a Python interpreter of your choice                                     
-virtualenv -p /usr/bin/python2.7 venv                                   
+virtualenv -p /usr/bin/python3.6 venv                                   
 
 Active your virtual environment:                                               
 source venv/bin/activate                                                    
