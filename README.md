@@ -15,9 +15,7 @@ virtualenv -p /usr/bin/python2.7 venv
 
 Active your virtual environment:                                               
 source venv/bin/activate                                                    
-
-Using fish shell:                                                                 
-source venv/bin/activate.fish                                                            
+                                                          
 
 To deactivate:                                                                   
 deactivate                                                     
